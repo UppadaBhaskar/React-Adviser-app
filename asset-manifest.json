@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-Adviser-app/static/css/main.2e2eb817.css",
+    "main.js": "/React-Adviser-app/static/js/main.3717ad1e.js",
+    "static/media/city.jpg": "/React-Adviser-app/static/media/city.66512aa4c316df20b752.jpg",
+    "index.html": "/React-Adviser-app/index.html",
+    "main.2e2eb817.css.map": "/React-Adviser-app/static/css/main.2e2eb817.css.map",
+    "main.3717ad1e.js.map": "/React-Adviser-app/static/js/main.3717ad1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e2eb817.css",
+    "static/js/main.3717ad1e.js"
+  ]
+}
